@@ -34,5 +34,5 @@ The dataset contains 2 folders:<br>
  2.Uninfected<br>
 And a total of 27,558 images.<br>
 Output Interface:-<br>
-![malaria model](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Malaria%20Screen.PNG)
+![malaria model](https://storage.googleapis.com/kagglesdsdata/datasets%2F87153%2F200743%2Fcell_images%2Fcell_images%2FParasitized%2FC100P61ThinF_IMG_20150918_144104_cell_163.png?GoogleAccessId=datasets-dataviewer@kaggle-161607.iam.gserviceaccount.com&Expires=1545725934&Signature=GdyL85KBDVvcXBDhYLCdSq84CPAW0Ow0tkB%2Fy0w429iwTP6bE7CdZEut6QBjOS57vr1F88rVSYbH9X19PB9fAWjCg99J4%2BEiKMabLTkYlDhKkOqAwBnDzJPnZjr6mmQ21Tt%2B1DUBZxXc%2BaQJ9SyfjQPjgyCNOXgAq1CMrOmhHuyFQ3PoJgNHUp%2FnvrGQBrH2r78hsxIrkuItW3W1jRCGA5qOMXiE4EFlYZGVrEH1r4u7b6ZgOzGerudj0eBlLWQtdeWc4CeLq9daVt6U80rBDUNVoKJED6rTlJHSxLmU4qRMNxUGNmXTqLaJ%2BvVlzkOgal2%2BaF1885Pz2klp%2FqnaYA%3D%3D)
 
