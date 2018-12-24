@@ -3,6 +3,7 @@ Image based deep learning to detect eye diseases. Transfer learning and feature 
 
 There are two approaches covered here:
 I. Transfer Learning Approach (94% accuracy, 100 hours of training duration, 500 epochs, 12 mins/epoch)
+
 II. Feature Extraction & Bottleneck Approach (99.1% accuracy, 75 mins of training duration, 50 epochs, 90 sec/epoch)
 
 ### Highlights
