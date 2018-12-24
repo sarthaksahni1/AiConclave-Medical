@@ -22,3 +22,6 @@ Input Image:-<br>
 Output Image:-<br>
 ![Eye Disease model - Output Image](http://blog.mapshalli.org/wp-content/uploads/2018/03/drusen-heat.jpg)<br>
 
+Add Custom Image to the model and check the Results:- <br>
+Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
+
