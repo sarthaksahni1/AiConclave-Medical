@@ -41,6 +41,12 @@ Uninfected Cell Image
 ![malaria model](https://storage.googleapis.com/kagglesdsdata/datasets%2F87153%2F200743%2Fcell_images%2Fcell_images%2FUninfected%2FC100P61ThinF_IMG_20150918_144104_cell_131.png?GoogleAccessId=datasets-dataviewer@kaggle-161607.iam.gserviceaccount.com&Expires=1545719681&Signature=eEsY0PEoKz%2Fn%2BVJpmksRbREELtdXsMwIWQS6WbxDfLVbVxunla4HmoRgcmsS3ZP3VHavwXM13nWy%2BG0fsVRDR2NIwtGISgm5mIOan6gkrnaWLGW1IJONHuguBAnLTgayX1S7szp%2F9LJxk5oHKixNNE2enqQuhgXejMTVtByDFYeJbKsRDF1LMX1DpbmyzLn9%2FvXEyQyOZrGCWduCLSivbarTJnTB5PIzXvYKvvZFRgzb5q2z03w%2FgigOT%2FF4%2BAE%2BGIsTRckKlTqF%2FTu%2B7FNw0LvZOy6E%2B6D%2FAXnLnmy6bDWUuW3qtJejK%2FuZTJh0pFiYRODp9KML7UujdB6eysao4Q%3D%3D)
 <br>
 ## Skin Cancer Detection
+Here we have design an algorithm that can visually diagnose melanoma, the deadliest form of skin cancer. In particular, algorithm will distinguish this malignant skin tumor from two types of benign lesions (nevi and seborrheic keratoses).<br>
+Dataset:-<br>
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/train.zip\<br>
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/valid.zip\<br>
+https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/skin-cancer/test.zip<br>
+
 Skin Disease Classes :- <br>
 ![skin model](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/skin_disease_classes.png)
 Prediction Results :- <br>
