@@ -26,8 +26,8 @@ II. Feature Extraction & Bottleneck Approach (99.1% accuracy, 75 mins of trainin
 output/model.24-0.99.hdf5.zip:
 * Model file created by Features-Train.ipynb.
 * Unzip and load the model in Features-Evaluate.ipynb
-![Eye disease model - Training and Accuracy](http://blog.mapshalli.org/wp-content/uploads/2018/03/accuracy-768x447.png)<br>
-![Eye disease model - Training and loss](http://blog.mapshalli.org/wp-content/uploads/2018/03/loss-768x453.png)
+![Eye disease model - Training and Accuracy](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Eye%20Accuracy.png)<br>
+![Eye disease model - Training and loss](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Eye%20loss.png)
 <br>
 Add Custom Image to the model and check the Results:- <br>
 Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
