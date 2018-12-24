@@ -54,7 +54,7 @@ sudo npm install -g now
 
 1. Get a **direct download** link to your model
 
-2. Set that link equal to `model_file_url` - which you can find here on [app/server.py/L20](https://github.com/iArunava/Malaria-Detection-using-Keras/blob/master/zeit/app/server.py#L20)
+2. Set that link equal to `model_file_url` - which you can find here on [app/server.py/L20](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/Malaria-Detection/zeit/app/server.py#L20)
 
 3. Run
 ```
