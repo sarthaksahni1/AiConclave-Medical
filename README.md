@@ -12,8 +12,8 @@ Some of the diseases we would be tackling with this project are:
 2.	Malaria Detection using keras
 3.	Skin Cancer (Melanoma) detection
 
-## Eye Disease Detection
-Optical coherence tomography (OCT) is an imaging technique that uses coherent light to capture high resolution images of biological tissues. OCT is heavily used by ophthalmologists to obtain high resolution images of the eye retina. Retina of the eye functions much more like a film in a camera. OCT images can be used to diagnose many retina related eyes diseases. Three eye diseases of  particular interest are listed below:
+### Eye Disease Detection
+Optical coherence tomography (OCT) is an imaging technique that uses coherent light to capture high resolution images of biological tissues. OCT is heavily used by ophthalmologists to obtain high resolution images of the eye retina. Retina of the eye functions much more like a film in a camera. OCT images can be used to diagnose many retina related eyes diseases. Three eye diseases of  particular interest are listed below:<br>
     1.Choroidal neovascularization (CNV)<br>
     2.Macular Edema (DME)<br>
     3.Drusen (DRUSEN)<br>
