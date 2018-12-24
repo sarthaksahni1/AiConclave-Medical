@@ -42,7 +42,7 @@ The live link to the deployed model can be found here: https://malaria-classifie
 
 ## A look into the deployed model on web
 
-![malaria model - deployed classifier](https://user-images.githubusercontent.com/26242097/50305612-5d29eb80-04b9-11e9-9feb-7c0eb58483c6.png)
+![malaria model - deployed classifier](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Comparison%20Model.png)
 
 ## deploy this models using this?
 
