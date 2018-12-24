@@ -26,4 +26,12 @@ Add Custom Image to the model and check the Results:- <br>
 Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
 <br>
 ### Malaria Detection
+Here we are using Keras to detect Malaria from Images. The model used is a ResNet50 which is trained from scratch.<br>
+The dataset contains 2 folders:<br>
+ 1.Infected<br>
+ 2.Uninfected<br>
+And a total of 27,558 images.<br>
+(https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)<br>
+Output Interface:-<br>
+![malaria model - deployed classifier](https://user-images.githubusercontent.com/26242097/50305612-5d29eb80-04b9-11e9-9feb-7c0eb58483c6.png)
 
