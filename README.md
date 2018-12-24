@@ -20,5 +20,5 @@ Optical coherence tomography (OCT) is an imaging technique that uses coherent li
 Input Image:-<br>
 ![Eye Disease model - Input Image](https://github.com/sarthaksahni1/AiConclave-Medical/tree/master/Images/NORMAL-2038-3.jpeg)<br>
 Output Image:-<br>
-![Eye Disease model - Output Image](https://github.com/sarthaksahni1/AiConclave-Medical/tree/master/Images/index.png)<br>
+![Eye Disease model - Output Image](http://blog.mapshalli.org/wp-content/uploads/2018/03/drusen-heat.jpg)<br>
 
