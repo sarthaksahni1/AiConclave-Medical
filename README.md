@@ -34,5 +34,5 @@ The dataset contains 2 folders:<br>
  2.Uninfected<br>
 And a total of 27,558 images.<br>
 Output Interface:-
-![malaria model](/images/Malaria Screen.PNG)
+![malaria model](AiConclave-Medical/images/Malaria Screen.PNG)
 
