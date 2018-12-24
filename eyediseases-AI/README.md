@@ -29,8 +29,6 @@ output/model.24-0.99.hdf5.zip:
 ![Eye disease model - Training and Accuracy](http://blog.mapshalli.org/wp-content/uploads/2018/03/accuracy-768x447.png)<br>
 ![Eye disease model - Training and loss](http://blog.mapshalli.org/wp-content/uploads/2018/03/loss-768x453.png)
 <br>
-During the training, monitoring of GPU, CPU, and memory utilization is critical. In my earlier attempts, GPU ran out of memory!
-<br>
-![Eye disease model - GPU](http://blog.mapshalli.org/wp-content/uploads/2018/03/nvidia_gpu_status-768x572.jpg)
-<br>
-![Eye disease model - CPU](http://blog.mapshalli.org/wp-content/uploads/2018/03/cpu_memory_status.jpg)
+Add Custom Image to the model and check the Results:- <br>
+Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
+
