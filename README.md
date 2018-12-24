@@ -16,7 +16,7 @@ Some of the diseases we would be tackling with this project are:
 Optical coherence tomography (OCT) is an imaging technique that uses coherent light to capture high resolution images of biological tissues. OCT is heavily used by ophthalmologists to obtain high resolution images of the eye retina. Retina of the eye functions much more like a film in a camera. OCT images can be used to diagnose many retina related eyes diseases. Three eye diseases of  particular interest are listed below:<br>
     1.Choroidal neovascularization (CNV)<br>
     2.Macular Edema (DME)<br>
-    3.Drusen (DRUSEN)<br>
+    3.Drusen (DRUSEN)<br><br>
 Input Image:-<br>
 ![Eye Disease model - Input Image](http://blog.mapshalli.org/wp-content/uploads/2018/03/NORMAL-2038-3.jpeg)<br>
 Output Image:-<br>
@@ -24,4 +24,6 @@ Output Image:-<br>
 
 Add Custom Image to the model and check the Results:- <br>
 Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
+<br>
+### Malaria Detection
 
