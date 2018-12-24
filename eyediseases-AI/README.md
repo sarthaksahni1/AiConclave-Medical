@@ -26,3 +26,9 @@ II. Feature Extraction & Bottleneck Approach (99.1% accuracy, 75 mins of trainin
 output/model.24-0.99.hdf5.zip:
 * Model file created by Features-Train.ipynb.
 * Unzip and load the model in Features-Evaluate.ipynb
+![Eye disease model - Training and Accuracy](http://blog.mapshalli.org/wp-content/uploads/2018/03/accuracy-768x447.png)<br>
+![Eye disease model - Training and loss](http://blog.mapshalli.org/wp-content/uploads/2018/03/loss-768x453.png)
+<br>
+During the training, monitoring of GPU, CPU, and memory utilization is critical. In my earlier attempts, GPU ran out of memory!<br>
+![Eye disease model - GPU](http://blog.mapshalli.org/wp-content/uploads/2018/03/nvidia_gpu_status-768x572.jpg)<br>
+![Eye disease model - CPU](http://blog.mapshalli.org/wp-content/uploads/2018/03/cpu_memory_status.jpg)
