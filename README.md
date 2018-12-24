@@ -18,9 +18,9 @@ Optical coherence tomography (OCT) is an imaging technique that uses coherent li
     2.Macular Edema (DME)<br>
     3.Drusen (DRUSEN)<br><br>
 Input Image:-<br>
-![Eye Disease model - Input Image](http://blog.mapshalli.org/wp-content/uploads/2018/03/NORMAL-2038-3.jpeg)<br>
+![Eye Disease model - Input Image](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/NORMAL-2038-3.jpeg)<br>
 Output Image:-<br>
-![Eye Disease model - Output Image](http://blog.mapshalli.org/wp-content/uploads/2018/03/drusen-heat.jpg)<br>
+![Eye Disease model - Output Image](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/index.png)<br>
 
 Add Custom Image to the model and check the Results:- <br>
 Set that link equal to `predict_from_image_url` - which you can find here on [eyediseases-AI/Evaluate.ipynb/L40](https://github.com/sarthaksahni1/AiConclave-Medical/blob/master/eyediseases-AI/Evaluate.ipynb#L40)
