@@ -17,3 +17,8 @@ Optical coherence tomography (OCT) is an imaging technique that uses coherent li
     1.Choroidal neovascularization (CNV)<br>
     2.Macular Edema (DME)<br>
     3.Drusen (DRUSEN)<br>
+Input Image:-<br>
+![Eye Disease model - Input Image](https://github.com/sarthaksahni1/AiConclave-Medical/tree/master/Images/NORMAL-2038-3.jpeg)<br>
+Output Image:-<br>
+![Eye Disease model - Output Image](https://github.com/sarthaksahni1/AiConclave-Medical/tree/master/Images/index.png)<br>
+
