@@ -34,5 +34,5 @@ The dataset contains 2 folders:<br>
  2.Uninfected<br>
 And a total of 27,558 images.<br>
 Output Interface:-
-![malaria model - deployed classifier](https://user-images.githubusercontent.com/26242097/50305612-5d29eb80-04b9-11e9-9feb-7c0eb58483c6.png)
+![malaria model](/images/Malaria Screen.PNG)
 
