@@ -38,7 +38,7 @@ Output Interface:-<br>
 Paratized Cell Image
 ![malaria model paratized](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Paratized.png)
 Uninfected Cell Image
-![malaria model](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/uninfected.png)
+![malaria model](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/images/Uninfected.png)
 <br>
 ## Skin Cancer Detection
 Here we have design an algorithm that can visually diagnose melanoma, the deadliest form of skin cancer. In particular, algorithm will distinguish this malignant skin tumor from two types of benign lesions (nevi and seborrheic keratoses).<br>
